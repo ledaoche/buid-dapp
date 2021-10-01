@@ -62,3 +62,8 @@ export function transferFrom(from: string, to: string, tokens: u64): boolean {
 function getBalance(owner: string): u64 {
   return balances.contains(owner) ? balances.getSome(owner) : 0;
 }
+export function anjwdnkwjd(): void{
+	let i: i32 = 0 //bắt buộc
+i=i+76128237
+i=798127389732;
+}
